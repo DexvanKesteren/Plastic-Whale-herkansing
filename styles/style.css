@@ -38,7 +38,7 @@
     color: white;
     font-size: 1.25em;
     padding: 0.375em 0.8125em;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     transition: color 0.4s, background-color 0.4s;
 }
 
@@ -66,7 +66,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     user-select: none;
 }
 
@@ -88,14 +88,14 @@
 
 .introductie h2 {
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1em;
     margin-top: 1em;
 }
 
 .introductie p {
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1em;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -120,7 +120,7 @@
 .contact {
     flex: 1;
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     text-align: center;
     margin-bottom: 4em;
 }
@@ -169,7 +169,7 @@
     color: white;
     font-size: 1.25em;
     padding: 0.375em 0.8125em;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     transition: color 0.4s, background-color 0.4s;
 }
 
@@ -196,14 +196,14 @@
 
 .missie h2 {
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1em;
     margin-top: 1em;
 }
 
 .missie p {
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1em;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -235,14 +235,14 @@
 
 .helpons h2 {
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1em;
     margin-top: 1em;
 }
 
 .helpons p {
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1em;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -255,7 +255,7 @@
     height: 5em;
     font-size: 2em;
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
 }
 
 .helponsknop {
@@ -284,14 +284,14 @@
 
 .helpons2 h2 {
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1em;
     margin-top: 1em;
 }
 
 .helpons2 p {
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1em;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -315,14 +315,14 @@
 
 .wistjedat h2 {
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1em;
     margin-top: 1em;
 }
 
 .wistjedat p {
     color: white;
-    font-family: "kaushan-script", sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 1em;
     margin-top: 1em;
     margin-bottom: 1em;
